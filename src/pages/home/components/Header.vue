@@ -20,5 +20,21 @@ export default {
 }
 </script>
 
-<style scoped>
+<style>
+  .header {
+    height: 50px;
+  }
+  .header-input {
+    padding: 4%;
+    width: 200px;
+  }
+  .header-left {
+    padding: 4%;
+    float: left;
+  }
+  .header-right {
+    float: right;
+    height: 10px;
+    padding-bottom: 20px;
+  }
 </style>
