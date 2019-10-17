@@ -74,6 +74,9 @@ export default {
 </script>
 
 <style scoped>
+    .icons {
+        padding-top: .1rem;
+    }
     .swiper-container{
         height: 0;
         padding-bottom: 50%;
